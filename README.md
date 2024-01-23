@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=meltjacTechs&show_icons=true&locale=en" alt="meltjacTechs" /></p><br>
 
 
-<p align="le"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meltjacTechs" alt="meltjacTechs" /></a> </p>
+<
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/meltjactechs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="meltjactechs" /></a></p><br><br>
