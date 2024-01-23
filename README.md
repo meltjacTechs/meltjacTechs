@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A Fullstack Sofwtware Engineer from Kenya</h3>
-<img align="center" width="300" alt="coding" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact" alt="meltjacTechs" /></p>
+<img align="right" width="300" alt="coding" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+
 
 - 🌱 I’m currently learning **MongoDB, Express js,React, Node js, React Native**
 
@@ -12,6 +12,7 @@
 - 📫 How to reach me **ebwire02@gmail.com**
 
 - ⚡ Fun fact **I love petrichor**
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact" alt="meltjacTechs" /></p>
 
 <h3 align="left">Connect with me:</h3>
 
