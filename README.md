@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A Fullstack Sofwtware Engineer from Kenya</h3>
-
+<img align="center" width="300" alt="coding" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact" alt="meltjacTechs" /></p>
 
 - 🌱 I’m currently learning **MongoDB, Express js,React, Node js, React Native**
@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=meltjacTechs&show_icons=true&locale=en" alt="meltjacTechs" /></p><br>
 
 
-<
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/meltjactechs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="meltjactechs" /></a></p><br><br>
