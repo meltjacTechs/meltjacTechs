@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A Fullstack Sofwtware Engineer from Kenya</h3>
-<img align="center" width="300" alt="coding" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="center" width="200" alt="coding" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact" alt="meltjacTechs" /></p>
 
 - 🌱 I’m currently learning **MongoDB, Express js,React, Node js, React Native**
