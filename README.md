@@ -7,12 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [www.meltjac-techs.me](www.meltjac-techs.me)
 
-- 💬 Ask me about **React, Next js, Javascript, Typescript**
+- 💬 Ask me about 👇🏾 or **React, Next js, Javascript, Typescript**
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact" alt="meltjacTechs" /></p>
 
 - 📫 How to reach me **ebwire02@gmail.com**
 
 - ⚡ Fun fact **I love petrichor**
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact" alt="meltjacTechs" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 
