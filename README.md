@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A Fullstack Sofwtware Engineer from Kenya</h3>
 
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact" alt="meltjacTechs" /></p>
 
 - 🌱 I’m currently learning **MongoDB, Express js,React, Node js, React Native**
 
