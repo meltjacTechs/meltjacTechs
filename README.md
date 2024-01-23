@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I love petrichor**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" src="<img align="right" alt="coding" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">">
+<img align="right" alt="coding" src="<img align="right" alt="coding" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 <p align="left">
 <a href="https://codepen.io/meltjactechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="meltjactechs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meltjac-techs-57b747246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meltjac-techs-57b747246" height="30" width="40" /></a>
