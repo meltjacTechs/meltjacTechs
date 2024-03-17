@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MongoDB, Express js,React, Node js, React Native**
 
-- 👨‍💻 All of my projects are available at [www.meltjac-techs.me](www.meltjac-techs.me)
-
 - 💬 Ask me about **React, Next js, Javascript, Typescript** <br> as indicated down below👇🏾 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact" alt="meltjacTechs" /></p>
 
