@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
-<h3 align="center">A Fullstack Sofwtware Engineer from Kenya</h3>
+<h3 align="center">A Fullstack Software Engineer from Kenya</h3>
 <img align="center" width="300" alt="coding" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 
