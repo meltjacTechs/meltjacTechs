@@ -8,7 +8,7 @@
 - 💬 Ask me about **React, Next js, Javascript, Typescript** <br> as indicated down below👇🏾 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact" alt="meltjacTechs" /></p>
 
-- 📫 How to reach me **ebwire02@gmail.com or pro_grammer@meltj@c.tech**
+- 📫 How to reach me **pro_grammer@meltj@c.tech**
 
 - ⚡ Fun fact **I love petrichor**
 
