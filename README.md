@@ -29,11 +29,8 @@ I'm a passionate fullstack developer specializing in modern web technologies. I 
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meltjacTechs&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltjacTechs&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=meltjacTechs&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Connect With Me
