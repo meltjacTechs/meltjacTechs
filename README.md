@@ -10,7 +10,6 @@
 
 I'm a passionate fullstack developer specializing in modern web technologies. I love building scalable, user-friendly applications and solving complex problems with elegant code.
 
-- 🔭 Currently working with **MongoDB, Next.js, React, and Node.js**
 - 💡 Specialized in **React, Next.js, JavaScript, and TypeScript**
 - 🌱 Always learning and exploring new technologies
 - ⚡ Fun fact: I love petrichor (the smell of rain on dry earth)
