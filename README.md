@@ -3,7 +3,7 @@
 ### Fullstack Software Engineer | Kenya 🇰🇪
 
 <div align="center">
-  <img width="400" height="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
 
 ## 🚀 About Me
