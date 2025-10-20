@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manuel
 
-### Fullstack Software Engineer | Kenya 🇰🇪
+### Fullstack Software Engineer | Kenya 🇰🇪🇰🇪🇰🇪
 
 <table>
 <tr>
@@ -10,12 +10,11 @@
 <td width="50%">
 
 ## 🚀 About Me
-
-I'm a passionate fullstack developer specializing in modern web technologies. I love building scalable, user-friendly applications and solving complex problems with elegant code.
+"Progress feeds you like a drug." 
 
 - 💡 Specialized in **React, Next.js, JavaScript, and TypeScript**
 - 🌱 Always learning and exploring new technologies
-- ⚡ Fun fact: I love petrichor (the smell of rain on dry earth)
+- ⚡ Fun fact: I love petrichor.
 
 </td>
 </tr>
@@ -42,7 +41,7 @@ I'm a passionate fullstack developer specializing in modern web technologies. I 
   <a href="mailto:ebwire02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/_meltjac.techs" target="_blank">
+  <a href="https://instagram.com/wh0_is_manuel" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.gg/BfABewHT" target="_blank">
